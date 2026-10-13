@@ -1,0 +1,149 @@
+{
+  "lang": "es-MX",
+  "brand": {
+    "name": "Avelar Remodelaciones",
+    "logo": "img/logo-avelar.png",
+    "logo_mode": "white",
+    "show_name": true,
+    "colors": { "primary": "#ea6a2a", "secondary": "#f5a623", "accent": "#ffc46b" },
+    "theme": "mixed",
+    "font": "industrial",
+    "radius": "soft"
+  },
+  "seo": {
+    "title": "Avelar Remodelaciones | Remodelación y Obra en Guadalajara",
+    "description": "Remodelaciones en Guadalajara: tablaroca, durock, albañilería, herrería, electricidad, fontanería y pintura. Cuéntanos tu proyecto y cotiza por WhatsApp.",
+    "keywords": ["remodelaciones Guadalajara", "tablaroca", "durock", "albañilería", "herrería", "electricidad", "fontanería", "pintura", "cocinas exteriores", "terrazas"],
+    "business_type": "HomeAndConstructionBusiness",
+    "area": "Guadalajara, Jalisco"
+  },
+  "contact": {
+    "whatsapp": "523314578586",
+    "whatsapp_display": "33 1457 8586",
+    "message": "Hola Avelar Remodelaciones, quiero cotizar una remodelación.",
+    "phone": "+52 33 1457 8586",
+    "address": "Guadalajara, Jalisco",
+    "float_label": "¿Cotizamos tu obra?"
+  },
+  "header_cta": { "label": "Quiero mi cotización", "href": "#contacto" },
+  "hero": {
+    "fx": "beams",
+    "layout": "split",
+    "eyebrow": "Remodelaciones en Guadalajara",
+    "title": "Convierte tu espacio en *el hogar que imaginas*",
+    "subtitle": "Tablaroca, albañilería, herrería, electricidad y más: un solo equipo que te cotiza claro y te entrega acabados que se notan.",
+    "cta": { "label": "Estoy listo para remodelar", "href": "#contacto" },
+    "cta2": { "label": "Ver trabajos reales", "href": "#galeria" },
+    "badges": ["9 oficios en un solo equipo", "Cotización por WhatsApp", "Trabajos reales documentados"],
+    "chips": ["Terrazas y pérgolas", { "text": "Cocinas y asadores", "icon": "tool" }, "Acabados finos"],
+    "image": { "src": "img/hero-pergola.jpg", "alt": "Terraza remodelada con pérgola de madera y muros blancos en Guadalajara" }
+  },
+  "sections": [
+    {
+      "type": "marquee",
+      "items": ["Remodelación integral", "Tablaroca y Durock", "Albañilería", "Herrería", "Carpintería", "Electricidad", "Fontanería", "Pintura", "Terrazas y pérgolas", "Cocinas exteriores"]
+    },
+    {
+      "type": "services", "nav": "Servicios", "id": "servicios", "eyebrow": "Lo que hacemos",
+      "title": "Todo para tu obra, *en un solo equipo*",
+      "lead": "Contrata el oficio que necesitas o deja la remodelación completa en nuestras manos. Tú decides el alcance; nosotros cuidamos el resultado.",
+      "link": "Quiero esto en mi proyecto",
+      "items": [
+        { "icon": "home", "title": "Remodelación integral", "text": "De la idea a la entrega: casas, locales, terrazas y áreas exteriores renovadas con orden, limpieza y acabados que presumes.", "list": ["Cocinas, baños y terrazas", "Asadores y áreas de convivencia", "Un solo responsable de principio a fin"], "wide": true },
+        { "icon": "layers", "title": "Tablaroca y Durock", "text": "Muros, plafones, nichos y libreros con líneas limpias y base perfecta para pintar." },
+        { "icon": "building", "title": "Albañilería", "text": "Muros, firmes, pisos, chimeneas y cocinas exteriores construidas para durar." },
+        { "icon": "shield", "title": "Herrería", "text": "Estructuras, escaleras, barandales y pérgolas fuertes, seguras y con estilo." },
+        { "icon": "tool", "title": "Carpintería", "text": "Puertas, closets y muebles a medida que aprovechan cada centímetro." },
+        { "icon": "zap", "title": "Electricidad", "text": "Instalaciones y reparaciones seguras, con iluminación pensada para lucir tu espacio." },
+        { "icon": "droplet", "title": "Fontanería", "text": "Instalaciones, fugas y renovación de baños y cocinas sin dolores de cabeza." },
+        { "icon": "sun", "title": "Pintura", "text": "Interior y exterior con preparación de superficie, para un acabado uniforme y duradero." }
+      ]
+    },
+    {
+      "type": "about", "nav": "Nosotros", "id": "nosotros", "eyebrow": "Quiénes somos",
+      "title": "Detrás de cada obra hay *alguien que te contesta*",
+      "text": [
+        "En Avelar Remodelaciones trabajamos de la mano contigo: te escuchamos, revisamos tu espacio y te proponemos la mejor forma de transformarlo, sin tecnicismos ni sorpresas.",
+        "Juan Miguel Avelar y su equipo documentan su trabajo real, obra por obra, para que veas exactamente cómo se construye lo que vas a contratar."
+      ],
+      "points": ["Trato directo por WhatsApp", "Cotización clara desde el inicio", "Obra ordenada y limpia", "Trabajos reales que puedes ver"],
+      "image": { "src": "img/albanileria-cocina.jpg", "alt": "Cocina exterior en construcción con muros de albañilería y repisas de concreto" },
+      "badge": { "value": "9", "label": "Oficios, un solo equipo" },
+      "cta": { "label": "Quiero hablar con Juan Miguel", "href": "wa" }
+    },
+    {
+      "type": "process", "nav": "Proceso", "id": "proceso", "eyebrow": "Cómo trabajamos",
+      "title": "De tu idea a tu espacio terminado en *4 pasos*",
+      "steps": [
+        { "title": "Nos cuentas tu idea", "text": "Escríbenos por WhatsApp con fotos o medidas de lo que quieres cambiar." },
+        { "title": "Revisamos y cotizamos", "text": "Analizamos tu espacio y te enviamos una propuesta clara, sin letra chiquita." },
+        { "title": "Manos a la obra", "text": "Ejecutamos con orden y te mantenemos al tanto del avance." },
+        { "title": "Entrega y detalles", "text": "Revisamos contigo cada acabado hasta que quedes contento." }
+      ]
+    },
+    {
+      "type": "stats",
+      "items": [
+        { "value": 9, "label": "Oficios en un solo equipo" },
+        { "value": 6500, "prefix": "+", "label": "Me gusta en TikTok @avelar823" },
+        { "value": 1200, "prefix": "+", "label": "Seguidores que siguen cada obra" },
+        { "value": 1800, "prefix": "+", "label": "Publicaciones de obras y proyectos en Facebook" }
+      ]
+    },
+    {
+      "type": "gallery", "nav": "Trabajos", "id": "galeria", "eyebrow": "Obras reales",
+      "title": "Lo que hacemos *se ve, se toca y se presume*",
+      "lead": "Proyectos reales de nuestro equipo. Cada foto es una obra que salió de nuestras manos.",
+      "images": [
+        { "src": "img/asador-chimenea.jpg", "alt": "Asador con chimenea de ladrillo y muros blancos terminados en jardín", "caption": "Asadores y chimeneas" },
+        { "src": "img/pergola-bambu.jpg", "alt": "Techo de pérgola con estructura metálica y paneles de bambú", "caption": "Pérgolas con herrería" },
+        { "src": "img/cocina-exterior.jpg", "alt": "Cocina exterior con asador, mosaico decorativo y techo de madera", "caption": "Cocinas exteriores" },
+        { "src": "img/area-fogata.jpg", "alt": "Área de fogata con bancas de concreto blanco sobre piso de piedra", "caption": "Áreas de convivencia" },
+        { "src": "img/piso-madera.jpg", "alt": "Habitación con piso de duela de madera recién instalado", "caption": "Pisos y acabados" },
+        { "src": "img/local-marmol.jpg", "alt": "Local comercial con barra de mármol negro y detalles dorados en obra", "caption": "Locales comerciales" },
+        { "src": "img/arcos-interior.jpg", "alt": "Interior con arcos en tablaroca y piso de mosaico geométrico", "caption": "Arcos y tablaroca" }
+      ]
+    },
+    {
+      "type": "faq", "nav": "Preguntas", "id": "preguntas", "eyebrow": "Dudas frecuentes",
+      "title": "Resolvemos lo que *te estás preguntando*",
+      "items": [
+        { "q": "¿Qué tipo de trabajos realizan?", "a": "Tablaroca, durock, albañilería, fontanería, carpintería, herrería, electricidad, pintura y remodelaciones completas de casas, locales, terrazas y áreas exteriores." },
+        { "q": "¿Cómo pido una cotización?", "a": "Escríbenos por WhatsApp al 33 1457 8586 con fotos o una descripción de lo que quieres hacer. También puedes usar el formulario de esta página y se abre la conversación con tu mensaje listo." },
+        { "q": "¿Puedo contratar solo un oficio?", "a": "Claro. Puedes pedir un trabajo específico, como un muro de tablaroca o una instalación eléctrica, o dejar toda la remodelación en manos de un solo equipo." },
+        { "q": "¿En qué zona trabajan?", "a": "Trabajamos en Guadalajara, Jalisco. Cuéntanos la ubicación de tu proyecto y te confirmamos disponibilidad." },
+        { "q": "¿Dónde puedo ver trabajos anteriores?", "a": "En la galería de esta página y en nuestro TikTok @avelar823, donde publicamos obras reales de principio a fin." }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "¿Listo para ver tu espacio *totalmente renovado*?",
+      "lead": "Cuéntanos tu idea hoy y empieza a darle forma. Respondemos directo por WhatsApp.",
+      "cta": { "label": "Sí, quiero mi cotización", "href": "wa" },
+      "cta2": { "label": "Ver servicios", "href": "#servicios" }
+    },
+    {
+      "type": "contact", "nav": "Contacto", "eyebrow": "Hablemos de tu obra",
+      "title": "Platícanos tu proyecto *y lo hacemos realidad*",
+      "lead": "Déjanos tus datos y abrimos una conversación por WhatsApp con tu mensaje ya escrito.",
+      "form": {
+        "title": "Tu cotización, sin compromiso",
+        "button": "Enviar mi proyecto por WhatsApp",
+        "note": "Se abrirá WhatsApp con tu mensaje listo. Sin compromiso."
+      }
+    }
+  ],
+  "footer": {
+    "text": "Remodelaciones y obra en Guadalajara: tablaroca, albañilería, herrería, electricidad, fontanería, carpintería y pintura.",
+    "social": [
+      { "name": "tiktok", "href": "https://www.tiktok.com/@avelar823" },
+      { "name": "facebook", "href": "https://www.facebook.com/juanmiguelavelarrodriguez" },
+      { "name": "instagram", "href": "https://www.instagram.com/juan_miguel_avelar" }
+    ],
+    "links": [
+      { "label": "WhatsApp 33 1928 7283", "href": "https://wa.me/523319287283" }
+    ]
+  },
+  "loader": { "text": "Avelar Remodelaciones", "duration": 2200 },
+  "smooth_scroll": true
+}
